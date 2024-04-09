@@ -1,0 +1,13 @@
+# Backend
+backend/dist
+backend/node_modules
+backend/uploads
+
+#Frontend
+frontend/dist
+frontend/node_modules
+
+
+# IDE - VSCode
+backend/.vscode/*
+frontend/.vscode/*
